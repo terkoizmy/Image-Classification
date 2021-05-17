@@ -1,2 +1,4 @@
-# klarifikasi_gambar
-klarifikasi gambar gunting kertas batu
+# Image Classification
+* Mount Google Drive
+* CNN model
+* Test Prediction image
