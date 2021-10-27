@@ -1,4 +1,4 @@
 # Image Classification
 * Mount Google Drive
-* CNN model
+* CNN model architecture
 * Test Prediction image
